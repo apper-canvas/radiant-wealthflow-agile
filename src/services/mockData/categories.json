@@ -1,0 +1,107 @@
+[
+  {
+    "Id": 1,
+    "name": "Salary",
+    "icon": "Banknote",
+    "color": "#16A34A",
+    "type": "income"
+  },
+  {
+    "Id": 2,
+    "name": "Freelance",
+    "icon": "Briefcase",
+    "color": "#059669",
+    "type": "income"
+  },
+  {
+    "Id": 3,
+    "name": "Investment",
+    "icon": "TrendingUp",
+    "color": "#10B981",
+    "type": "income"
+  },
+  {
+    "Id": 4,
+    "name": "Housing",
+    "icon": "Home",
+    "color": "#DC2626",
+    "type": "expense"
+  },
+  {
+    "Id": 5,
+    "name": "Transportation",
+    "icon": "Car",
+    "color": "#EA580C",
+    "type": "expense"
+  },
+  {
+    "Id": 6,
+    "name": "Groceries",
+    "icon": "ShoppingCart",
+    "color": "#7C2D12",
+    "type": "expense"
+  },
+  {
+    "Id": 7,
+    "name": "Food & Dining",
+    "icon": "UtensilsCrossed",
+    "color": "#B45309",
+    "type": "expense"
+  },
+  {
+    "Id": 8,
+    "name": "Utilities",
+    "icon": "Zap",
+    "color": "#F59E0B",
+    "type": "expense"
+  },
+  {
+    "Id": 9,
+    "name": "Healthcare",
+    "icon": "Heart",
+    "color": "#EF4444",
+    "type": "expense"
+  },
+  {
+    "Id": 10,
+    "name": "Entertainment",
+    "icon": "Film",
+    "color": "#8B5CF6",
+    "type": "expense"
+  },
+  {
+    "Id": 11,
+    "name": "Shopping",
+    "icon": "ShoppingBag",
+    "color": "#EC4899",
+    "type": "expense"
+  },
+  {
+    "Id": 12,
+    "name": "Education",
+    "icon": "GraduationCap",
+    "color": "#3B82F6",
+    "type": "expense"
+  },
+  {
+    "Id": 13,
+    "name": "Travel",
+    "icon": "Plane",
+    "color": "#06B6D4",
+    "type": "expense"
+  },
+  {
+    "Id": 14,
+    "name": "Insurance",
+    "icon": "Shield",
+    "color": "#6366F1",
+    "type": "expense"
+  },
+  {
+    "Id": 15,
+    "name": "Other",
+    "icon": "MoreHorizontal",
+    "color": "#6B7280",
+    "type": "expense"
+  }
+]

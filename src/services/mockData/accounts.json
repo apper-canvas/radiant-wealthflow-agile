@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "name": "Chase Checking",
+    "type": "checking",
+    "balance": 2450.75,
+    "currency": "USD",
+    "color": "#2563EB"
+  },
+  {
+    "Id": 2,
+    "name": "Savings Account",
+    "type": "savings",
+    "balance": 15750.00,
+    "currency": "USD",
+    "color": "#16A34A"
+  },
+  {
+    "Id": 3,
+    "name": "Credit Card",
+    "type": "credit",
+    "balance": 850.25,
+    "currency": "USD",
+    "color": "#DC2626"
+  },
+  {
+    "Id": 4,
+    "name": "Emergency Fund",
+    "type": "savings",
+    "balance": 5000.00,
+    "currency": "USD",
+    "color": "#7C3AED"
+  }
+]
