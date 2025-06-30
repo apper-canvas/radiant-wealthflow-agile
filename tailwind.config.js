@@ -13,18 +13,21 @@ export default {
           600: '#1d4ed8',
           700: '#1e40af',
         },
-        success: {
+success: {
           50: '#f0fdf4',
+          200: '#bbf7d0',
           500: '#22c55e',
           600: '#16a34a',
         },
         warning: {
           50: '#fffbeb',
+          200: '#fed7aa',
           500: '#f59e0b',
           600: '#d97706',
         },
         error: {
           50: '#fef2f2',
+          200: '#fecaca',
           500: '#ef4444',
           600: '#dc2626',
         },
